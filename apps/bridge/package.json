@@ -11,7 +11,7 @@
   "dependencies": {
     "@bugsnag/js": "^7.20.2",
     "@bugsnag/plugin-react": "^7.19.0",
-    "@eth-optimism/contracts-ts": "^0.16.2",
+    "@eth-optimism/contracts-ts": "^0.17.2",
     "@eth-optimism/indexer-api": "^0.0.4",
     "@headlessui/react": "^1.7.19",
     "@heroicons/react": "^2.0.13",
@@ -21,7 +21,7 @@
     "clsx": "^1.2.1",
     "framer-motion": "^9.0.4",
     "moment": "^2.29.4",
-    "next": "^13.2.0",
+    "next": "^15.2.2",
     "react": "^18.2.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18.2.0",
